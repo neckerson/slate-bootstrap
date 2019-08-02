@@ -31,6 +31,10 @@ $ yarn create slate-theme my-new-theme neckerson/slate-bootstrap
 
 For more information on connecting your new project with a Shopify store, see the [Slate docs](https://github.com/Shopify/slate/wiki/3.-Connect-to-your-store).
 
+### Troubleshooting
+
+If you cannot see the Bootstrap styles being applied after running `yarn start`, open the browser console and check for `ERR_CERT_AUTHORITY_INVALID` errors. You will need to generate a [local SSL certificate](https://github.com/Shopify/slate/wiki/4.-Create-a-self-signed-SSL-certificate) before the theme assets can be served.
+
 ## Contributing
 
 For help on setting up the repository locally, building, testing, and contributing
