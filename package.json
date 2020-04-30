@@ -33,7 +33,7 @@
     "@shopify/theme-product-form": "^2.0.5",
     "@shopify/theme-sections": "^2.0.5",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lazysizes": "^5.0.0",
     "popper.js": "^1.15.0",
     "qrcode": "^1.3.3"
