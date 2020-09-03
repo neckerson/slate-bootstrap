@@ -6630,10 +6630,10 @@ lazy-req@^1.0.0:
   resolved "https://registry.yarnpkg.com/lazy-req/-/lazy-req-1.1.0.tgz#bdaebead30f8d824039ce0ce149d4daa07ba1fac"
   integrity sha1-va6+rTD42CQDnODOFJ1Nqge6H6w=
 
-lazysizes@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/lazysizes/-/lazysizes-5.0.0.tgz#b3f14f006940085f2c56b8b0d302da9e8d4aed75"
-  integrity sha512-igrN2RCmK7YBjy6w4PfKk+lfi52VrniM0jxChsCGBs8hGNv6P1RPCvMnl4kTuWIzwnTBfPlK8krxu6Mppc9fgA==
+lazysizes@^5.2.1:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/lazysizes/-/lazysizes-5.2.1.tgz#f450e36a995efb5817acb8c904f3d2f2efc29ffa"
+  integrity sha512-607dEMlbcnkny2lGYVqoA/rQO+WGpWh/BISeS1eLfT8nHQw6E+R8ybJoKKGVlZ2czKPTATrsU95f+nkwix0fXw==
 
 lazystream@^1.0.0:
   version "1.0.0"
